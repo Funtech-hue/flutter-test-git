@@ -7,3 +7,7 @@ void main(){
 num AddFunction(num a, num b){
   return a + b;
 }
+
+String greetFunction(String name){
+  return "hello $name, Welcome to dart";
+}
